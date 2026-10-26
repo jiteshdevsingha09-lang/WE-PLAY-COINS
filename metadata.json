@@ -1,0 +1,6 @@
+{
+  "name": "WePlay Recharge Store",
+  "description": "WePlay coins top-up portal with Google login, WePlay ID verification, 9 coin packages, and order request tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
